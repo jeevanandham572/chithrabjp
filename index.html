@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chithra's Political Journey — A Chronicle of Leadership & Community Service</title>
+  <meta name="description" content="Explore Chithra's political journey — a visual chronicle of leadership, community engagement, and public service through BJP (Bharatiya Janata Party) across Tamil Nadu." />
+  <meta name="keywords" content="Chithra, Political Journey, BJP, Tamil Nadu, Community Service, Leadership" />
+  <meta name="author" content="Chithra" />
+
+  <!-- Open Graph / Social -->
+  <meta property="og:title" content="Chithra's Political Journey" />
+  <meta property="og:description" content="A visual chronicle of leadership, community engagement, and public service." />
+  <meta property="og:type" content="website" />
+
+  <!-- Favicon (saffron-themed) -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏛️</text></svg>" />
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="index.css" />
+</head>
+<body>
+
+  <!-- =============================================
+       HERO SECTION
+       ============================================= -->
+  <section class="hero" id="hero">
+    <div class="hero-particles"></div>
+    <div class="hero-content">
+      <div class="hero-badge">
+        <span class="dot"></span>
+        Political Portfolio
+      </div>
+      <h1 class="hero-title">
+        Chithra's<br />
+        <span class="highlight">Political Journey</span>
+      </h1>
+      <p class="hero-subtitle">
+        A visual chronicle of leadership, community engagement, and dedicated public service 
+        across Tamil Nadu.
+      </p>
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <span class="hero-stat-value" id="hero-post-count">—</span>
+          <span class="hero-stat-label">Posts</span>
+        </div>
+        <div class="hero-stat">
+          <span class="hero-stat-value" id="hero-year-span">—</span>
+          <span class="hero-stat-label">Year Span</span>
+        </div>
+        <div class="hero-stat">
+          <span class="hero-stat-value" id="hero-image-count">—</span>
+          <span class="hero-stat-label">Photos</span>
+        </div>
+      </div>
+      <div class="hero-actions">
+        <a href="Chithra_Political_Journey.pdf" target="_blank" class="hero-btn hero-btn-pdf" id="btn-hero-pdf">
+          <span class="btn-icon">📄</span>
+          <span>Download PDF Booklet (207 Pages)</span>
+        </a>
+      </div>
+    </div>
+    <div class="hero-scroll-indicator">
+      <span>Scroll to explore</span>
+      <div class="scroll-line"></div>
+    </div>
+  </section>
+
+  <!-- =============================================
+       NAVIGATION & FILTERS
+       ============================================= -->
+  <nav class="nav-filter" id="nav-filter">
+    <div class="nav-inner">
+      <div class="nav-brand">
+        Chithra's <span class="accent">Journey</span>
+      </div>
+      <div class="filter-group" id="filter-group">
+        <!-- Dynamically populated by JS -->
+      </div>
+      <div class="nav-right">
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input 
+            type="text" 
+            class="search-input" 
+            id="search-input" 
+            placeholder="Search posts..." 
+            autocomplete="off" 
+          />
+        </div>
+        <a href="Chithra_Political_Journey.pdf" target="_blank" class="nav-pdf-btn" title="Open Full PDF Portfolio">
+          <span>📄</span> <span class="pdf-btn-text">PDF</span>
+        </a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- =============================================
+       MAIN CONTENT
+       ============================================= -->
+  <main class="main-content">
+    <div class="section-header">
+      <h2>Timeline of Activities</h2>
+      <p>Each moment captured through community engagement, political events, and public service.</p>
+    </div>
+
+    <div class="posts-counter" id="posts-counter">
+      Loading posts...
+    </div>
+
+    <!-- Loading State -->
+    <div class="loading-container" id="loading-container">
+      <div class="loading-spinner"></div>
+      <p class="loading-text">Loading posts & images...</p>
+    </div>
+
+    <!-- Timeline Posts Container -->
+    <div class="timeline" id="posts-container">
+      <!-- Dynamically populated by JS -->
+    </div>
+  </main>
+
+  <!-- =============================================
+       LIGHTBOX / IMAGE MODAL
+       ============================================= -->
+  <div class="lightbox-overlay" id="lightbox-overlay" onclick="closeLightbox()">
+    <div class="lightbox-content" onclick="event.stopPropagation()">
+      <button class="lightbox-close" onclick="closeLightbox()" aria-label="Close lightbox">&times;</button>
+      <button class="lightbox-nav lightbox-prev" onclick="lightboxPrev(event)" aria-label="Previous image">&#8249;</button>
+      <img class="lightbox-img" id="lightbox-img" src="" alt="Full size image" />
+      <button class="lightbox-nav lightbox-next" onclick="lightboxNext(event)" aria-label="Next image">&#8250;</button>
+      <div class="lightbox-counter" id="lightbox-counter"></div>
+    </div>
+  </div>
+
+  <!-- =============================================
+       BACK TO TOP
+       ============================================= -->
+  <button class="back-to-top" id="back-to-top" aria-label="Back to top">↑</button>
+
+  <!-- =============================================
+       FOOTER
+       ============================================= -->
+  <footer class="footer">
+    <p>
+      Chithra's <span class="accent">Political Journey</span> · 
+      Documenting a path of service and leadership
+    </p>
+  </footer>
+
+  <!-- JavaScript -->
+  <script src="posts_data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
