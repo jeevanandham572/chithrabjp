@@ -1,5 +1,315 @@
 window.POSTS_DATA = [
   {
+    "post_number": 273,
+    "date": "2026-09-17",
+    "time": "23:19:27",
+    "caption": "Today, on the occasion of Prime Minister Mr. Narendra Modi Ji's birthday, I distributed notebooks, stationery and refreshments to school students living in Kalaignar Nagar, Killai, Cuddalore West District. At this event, held to encourage children's education, I provided the students with the educational supplies they needed. | Forever in the service of the nation | U. Chithra, B.A. | State Agriculture Wing Project In-charge.",
+    "images": [
+      "fb_2176525613301343.jpg",
+      "fb_2176525656634672.jpg",
+      "fb_2176525696634668.jpg",
+      "fb_2176525753301329.jpg",
+      "fb_2176525789967992.jpg",
+      "fb_2176525839967987.jpg",
+      "fb_2176525883301316.jpg",
+      "fb_2176525919967979.jpg",
+      "fb_2176525959967975.jpg",
+      "fb_2176526026634635.jpg",
+      "fb_2176526093301295.jpg",
+      "fb_2176526126634625.jpg",
+      "fb_2176526166634621.jpg",
+      "fb_2176526223301282.jpg",
+      "fb_2176526276634610.jpg",
+      "fb_2176526336634604.jpg"
+    ],
+    "source_url": "https://www.facebook.com/share/p/1BYtMs6iCN/",
+    "facebook_post_id": "2176526369967934",
+    "caption_tamil": "இன்று பாரத பிரதமர் திரு. நரேந்திர மோடி ஜி அவர்களின் பிறந்த நாளை முன்னிட்டு, கடலூர் மேற்கு மாவட்டம் கிள்ளை கலைஞர் நகரில் வசிக்கும் பள்ளி மாணவ, மாணவியர்களுக்கு நோட்டுப் புத்தகங்கள், எழுதுபொருட்கள் மற்றும் சிற்றுண்டிகள் வழங்கி\nகுழந்தைகளின் கல்வியை ஊக்குவிக்கும் வகையில் நடைபெற்ற இந்நிகழ்வில்  மாணவர்களுக்கு தேவையான கல்வி உபகரணங்களை வழங்கினேன்\n\nஎன்றும் தேசப்பணியில் \nஉ. சித்ரா, B.A\nமாநில விவசாய அணி திட்டப் பொறுப்பாளர்",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "post_number": 272,
+    "date": "2026-08-19",
+    "time": "18:47:59",
+    "caption": "Today, I provided financial assistance for the construction of the Arulmigu Kamatchi Amman Temple in Thillai Vidangan village, Parangipettai South Union, Cuddalore West District.",
+    "images": [
+      "fb_2150414169245821.jpg",
+      "fb_2150414232579148.jpg",
+      "fb_2150414289245809.jpg"
+    ],
+    "source_url": "https://www.facebook.com/share/p/1HD5GrfurZ/",
+    "facebook_post_id": "2150414345912470",
+    "caption_tamil": "இன்று கடலூர் மேற்கு மாவட்டம், பரங்கிப்பேட்டை தெற்கு ஒன்றியம், தில்லை விடங்கன் கிராமத்தில் அருள்மிகு காமாட்சி அம்மன் கோவில் கட்டுவதற்காக நிதியுதவி அளித்தபோது.",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "post_number": 271,
+    "date": "2026-06-25",
+    "time": "15:54:49",
+    "caption": "Today, I provided financial assistance for the construction of the Bala Murugan Temple in the Kandamangalam, Karappadi Road, Pallippadai and Kovilampoondi area.",
+    "images": [
+      "fb_2102092397411332.jpg",
+      "fb_2102092444077994.jpg",
+      "fb_2102092504077988.jpg",
+      "fb_2102092560744649.jpg",
+      "fb_2102092637411308.jpg",
+      "fb_2102092694077969.jpg",
+      "fb_2102092810744624.jpg"
+    ],
+    "source_url": "https://www.facebook.com/share/p/1DFiAPbksf/",
+    "facebook_post_id": "2102092860744619",
+    "caption_tamil": "இன்று கந்தமங்கலம், காரப்பாடி சாலை, பள்ளிப்படை, கோவிளாம்பூண்டி பகுதியில் அமைந்துள்ள பால முருகன் ஆலய கட்டுமானத்திற்காக நிதியுதவி வழங்கியபோது",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "post_number": 270,
+    "date": "2026-06-20",
+    "time": "23:33:47",
+    "caption": "On the occasion of my birthday today, members of my BJP family visited my home to convey their wishes.",
+    "images": [
+      "fb_2097936127826959.jpg",
+      "fb_2097936177826954.jpg",
+      "fb_2097936217826950.jpg",
+      "fb_2097936261160279.jpg",
+      "fb_2097936314493607.jpg",
+      "fb_2097936391160266.jpg",
+      "fb_2097936447826927.jpg",
+      "fb_2097936487826923.jpg",
+      "fb_2097936544493584.jpg",
+      "fb_2097936597826912.jpg",
+      "fb_2097936644493574.jpg",
+      "fb_2097936684493570.jpg"
+    ],
+    "source_url": "https://www.facebook.com/share/p/19fhY16xwT/",
+    "facebook_post_id": "2097936721160233",
+    "caption_tamil": "இன்று எனது பிறந்த நாளை முன்னிட்டு பாஜக சொந்தங்கள் எனது வீட்டிற்கு வந்து வாழ்த்து தெரிவித்தபோது",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "post_number": 269,
+    "date": "2026-05-31",
+    "time": "23:38:01",
+    "caption": "When I attended a wedding in the family of respected Brother Mr. Madhimaran, a senior RSS office-bearer.",
+    "images": [
+      "fb_2079609709659601.jpg",
+      "fb_2079609782992927.jpg"
+    ],
+    "source_url": "https://www.facebook.com/share/p/1BoCoxi548/",
+    "facebook_post_id": "2079609816326257",
+    "caption_tamil": "ஆர்.ஸ்.ஸ்மூத்த நிர்வாகியான மரியாதைக்குரிய அண்ணன் திரு.மதிமாறன் அவர்கள் இல்லத்திருமணத்திள் கலந்து கொண்டபோது",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "post_number": 268,
+    "date": "2026-04-23",
+    "time": "22:31:16",
+    "caption": "Today, I visited C. Mutlur, Theethampalayam, Keelamoongiladi, Melamoongiladi, Sithalapadi, Vasaputhur and T. S. Pettai in Parangipettai South Union, Cuddalore West District, and carried out election booth work together with our allied parties.",
+    "images": [
+      "fb_2046527789634460.jpg"
+    ],
+    "source_url": "https://www.facebook.com/share/p/1BzcGfrte9/",
+    "facebook_post_id": "2046527809634458",
+    "caption_tamil": "இன்று கடலூர் மேற்கு மாவட்டம், பரங்கிப்பேட்டை தெற்கு ஒன்றியம் சி.முட்லூர், தீத்தாம்பாளையம், கீழமூங்கில்லடி, மேலமூங்கில்லடி, சிதலப்பாடி, வசப்புத்தூர், டி.எஸ். பேட்டை ஆகிய ஊர்களுக்குச் சென்று, தேர்தல் பூத் பணிகளை தோழமை கட்சிகளுடன் சிறப்பாக மேற்கொண்டபோது.",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "post_number": 267,
+    "date": "2026-04-16",
+    "time": "19:27:28",
+    "caption": "On 15 April 2026, I canvassed for votes in C. Mutlur and Killai town panchayat areas in support of Mr. K. Pandian, the candidate for the Chidambaram Assembly constituency.",
+    "images": [
+      "fb_2040674636886442.jpg",
+      "fb_2040674710219768.jpg",
+      "fb_2040674803553092.jpg",
+      "fb_2040674863553086.jpg",
+      "fb_2040674920219747.jpg"
+    ],
+    "source_url": "https://www.facebook.com/share/p/1F4iQcqvqo/",
+    "facebook_post_id": "2040674960219743",
+    "caption_tamil": "15.04.2026 அன்று சிதம்பரம் சட்டமன்றத் தொகுதி வேட்பாளர் திரு. K. பாண்டியன் அவர்களுக்கு ஆதரவாக, சி. முட்லூர் மற்றும் கிள்ளை பேரூராட்சிகளில் வாக்கு சேகரித்த போது",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "post_number": 266,
+    "date": "2026-03-31",
+    "time": "23:09:09",
+    "caption": "When I met Brother Mr. K. A. Pandian, MLA, our National Democratic Alliance candidate for the Chidambaram Assembly constituency.",
+    "images": [
+      "fb_2027791691508070.jpg"
+    ],
+    "source_url": "https://www.facebook.com/share/p/14p21VQLcZi/",
+    "facebook_post_id": "2027791721508067",
+    "caption_tamil": "சிதம்பரம் சட்டமன்றத் தொகுதி தேசிய ஜனநாயக கூட்டணியின் நமது வெற்றி வேட்பாளர் அண்ணன். திரு.K.A.பாண்டியன் MLA. அவர்களை  சந்தித்தபோது.",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "post_number": 265,
+    "date": "2026-03-31",
+    "time": "20:51:33",
+    "caption": "When I met Brother Mr. K. A. Pandian, MLA, our National Democratic Alliance candidate for the Chidambaram Assembly constituency.",
+    "images": [
+      "fb_2027704311516808.jpg",
+      "fb_2027704341516805.jpg",
+      "fb_2027704381516801.jpg",
+      "fb_2027704424850130.jpg"
+    ],
+    "source_url": "https://www.facebook.com/share/p/1ExyFb1RFB/",
+    "facebook_post_id": "2027704464850126",
+    "caption_tamil": "சிதம்பரம் சட்டமன்றத் தொகுதி தேசிய ஜனநாயக கூட்டணியின் நமது வெற்றி வேட்பாளர் அண்ணன். திரு.K.A.பாண்டியன் MLA. அவர்களை  சந்தித்தபோது.",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "post_number": 264,
+    "date": "2026-03-16",
+    "time": "17:12:21",
+    "caption": "Today, I attended the engagement ceremony of the daughter of Brother Mr. Madhimaran, a senior RSS office-bearer.",
+    "images": [
+      "fb_2014731466147426.jpg",
+      "fb_2014731586147414.jpg",
+      "fb_2014731682814071.jpg"
+    ],
+    "source_url": "https://www.facebook.com/share/p/19MhpkDkgi/",
+    "facebook_post_id": "2014731736147399",
+    "caption_tamil": "இன்று ஆர்.எஸ்.எஸ். மூத்த நிர்வாகியான அண்ணன் மதிமாறன் அவர்களின் மகள் நிச்சயதார்த்தத்தில் கலந்துகொண்ட போது",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "post_number": 263,
+    "date": "2026-03-01",
+    "time": "09:25:05",
+    "caption": "On 28 February 2026, following the instructions of respected Tamil Nadu BJP State President Mr. Nainar Nagendran, I participated in a street-corner campaign with our allied party in Lalpuram Panchayat village, Chidambaram Assembly constituency, Parangipettai South Union, Cuddalore West District.",
+    "images": [
+      "fb_2002633970690509.jpg",
+      "fb_2002634027357170.jpg",
+      "fb_2002634060690500.jpg"
+    ],
+    "source_url": "https://www.facebook.com/share/p/19EBnKpxMo/",
+    "facebook_post_id": "2002634120690494",
+    "caption_tamil": "28.02.2028 அன்று, பாரதிய ஜனதா கட்சியின் மாநிலத் தலைவர் மதிப்புக்குரிய திரு. நயினார் நாகேந்திரன் அவர்களின் அறிவுறுத்தலின்படி, கடலூர் மேற்கு மாவட்டம், பரங்கிப்பேட்டை தெற்கு ஒன்றியம், சிதம்பரம் சட்டமன்றத் தொகுதி  லால்புரம் ஊராட்சி கிராமத்தில் நமது தோழமைக் கட்சியுடன் இணைந்து தெருமுனைப் பிரச்சாரத்தில் கலந்துகொண்ட போது...",
+    "timezone": "Asia/Kolkata",
+    "source_corrections": [
+      "User confirmed event year is 2026, correcting 2028 in the Tamil source caption."
+    ]
+  },
+  {
+    "post_number": 262,
+    "date": "2026-03-01",
+    "time": "09:22:24",
+    "caption": "On 28 February 2026, following the instructions of respected Tamil Nadu BJP State President Mr. Nainar Nagendran, I participated in a street-corner campaign with our allied party in the Vandigate area of Chidambaram Municipality, Parangipettai South Union, Cuddalore West District.",
+    "images": [
+      "fb_2002632137357359.jpg",
+      "fb_2002632184024021.jpg",
+      "fb_2002632234024016.jpg",
+      "fb_2002632280690678.jpg",
+      "fb_2002632327357340.jpg"
+    ],
+    "source_url": "https://www.facebook.com/share/p/1C6CJwnbfT/",
+    "facebook_post_id": "2002632354024004",
+    "caption_tamil": "28.02.2028 அன்று, பாரதிய ஜனதா கட்சியின் மாநிலத் தலைவர் மதிப்புக்குரிய திரு. நயினார் நாகேந்திரன் அவர்களின் அறிவுறுத்தலின்படி, கடலூர் மேற்கு மாவட்டம், பரங்கிப்பேட்டை தெற்கு ஒன்றியம், சிதம்பரம் வண்டிகேட் நகராட்சில் நமது தோழமைக் கட்சியுடன் இணைந்து தெருமுனைப் பிரச்சாரத்தில் கலந்துகொண்ட போது...",
+    "timezone": "Asia/Kolkata",
+    "source_corrections": [
+      "User confirmed event year is 2026, correcting 2028 in the Tamil source caption."
+    ]
+  },
+  {
+    "post_number": 261,
+    "date": "2026-03-01",
+    "time": "09:20:39",
+    "caption": "On 28 February 2026, following the instructions of respected Tamil Nadu BJP State President Mr. Nainar Nagendran, I participated in a street-corner campaign with our allied party in Maduvankarai village, Parangipettai South Union, Cuddalore West District.",
+    "images": [
+      "fb_2002631130690793.jpg",
+      "fb_2002631210690785.jpg"
+    ],
+    "source_url": "https://www.facebook.com/share/p/1FxuGebBv3/",
+    "facebook_post_id": "2002631254024114",
+    "caption_tamil": "28.02.2028 அன்று, பாரதிய ஜனதா கட்சியின் மாநிலத் தலைவர் மதிப்புக்குரிய திரு. நயினார் நாகேந்திரன் அவர்களின் அறிவுறுத்தலின்படி, கடலூர் மேற்கு மாவட்டம், பரங்கிப்பேட்டை தெற்கு ஒன்றியம், மடுவான்கரை கிராமத்தில் நமது தோழமைக் கட்சியுடன் இணைந்து தெருமுனைப் பிரச்சாரத்தில் கலந்துகொண்ட போது...",
+    "timezone": "Asia/Kolkata",
+    "source_corrections": [
+      "User confirmed event year is 2026, correcting 2028 in the Tamil source caption."
+    ]
+  },
+  {
+    "post_number": 260,
+    "date": "2026-03-01",
+    "time": "09:17:34",
+    "caption": "On 28 February 2026, following the instructions of respected Tamil Nadu BJP State President Mr. Nainar Nagendran, I participated in a street-corner campaign with our allied party in Killai Town Panchayat, Parangipettai South Union, Cuddalore West District.",
+    "images": [
+      "fb_2002629030691003.jpg",
+      "fb_2002629104024329.jpg",
+      "fb_2002629180690988.jpg",
+      "fb_2002629280690978.jpg",
+      "fb_2002629324024307.jpg",
+      "fb_2002629360690970.jpg"
+    ],
+    "source_url": "https://www.facebook.com/share/p/1H7qewRsgE/",
+    "facebook_post_id": "2002629400690966",
+    "caption_tamil": "28.02.2028 அன்று பாரதிய ஜனதா கட்சியின் மாநிலத் தலைவர் மதிப்புக்குரிய திரு. நயினார் நாகேந்திரன் அவர்களின் அறிவுறுத்தலின்படி, கடலூர் மேற்கு மாவட்டம், பரங்கிப்பேட்டை தெற்கு ஒன்றியம், கிள்ளை பேரூராட்சியில் நமது தோழமைக் கட்சியுடன் இணைந்து தெருமுனைப் பிரச்சாரத்தில் கலந்துகொண்ட போது...",
+    "timezone": "Asia/Kolkata",
+    "source_corrections": [
+      "User confirmed event year is 2026, correcting 2028 in the Tamil source caption."
+    ]
+  },
+  {
+    "post_number": 259,
+    "date": "2026-02-27",
+    "time": "21:15:45",
+    "caption": "On 26 February 2026, following the instructions of respected Tamil Nadu BJP State President Mr. Nainar Nagendran, a street-corner campaign was held under my leadership in C. Mutlur village, Parangipettai South Union, Cuddalore West District, together with our allied party. | #bjptamilnadu #nainarnagendran #annamalai",
+    "images": [
+      "fb_2001337510820155.jpg",
+      "fb_2001337524153487.jpg",
+      "fb_2001337514153488.jpg",
+      "fb_2001337500820156.jpg",
+      "fb_2001337487486824.jpg",
+      "fb_2001337517486821.jpg",
+      "fb_2001337504153489.jpg",
+      "fb_2001337490820157.jpg",
+      "fb_2001337497486823.jpg",
+      "fb_2001337520820154.jpg",
+      "fb_2001337507486822.jpg",
+      "fb_2001337494153490.jpg"
+    ],
+    "source_url": "https://www.facebook.com/share/p/14rMj7AgWeP/",
+    "facebook_post_id": "2001337547486818",
+    "caption_tamil": "26.02.2026 அன்று பாரதிய ஜனதாக் கட்சியின் மாநிலத் தலைவர் மதிப்பிற்குரிய திரு. நயினார் நாகேந்திரன் அவர்களின் அறிவுறுத்தலின்படி, கடலூர் மேற்கு மாவட்டம், பரங்கிப்பேட்டை தெற்கு ஒன்றியம், C.முட்லூர் கிராமத்தில் எனது தலைமையில் தெருமுனைப் பிரச்சாரம் மிகச் சிறப்பாக நமது தோழமைக் கட்சியுடன் நடைபெற்ற போது...\n #bjptamilnadu #nainarnagendran #annamalai",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "post_number": 258,
+    "date": "2026-02-27",
+    "time": "21:01:43",
+    "caption": "On 26 February 2026, following the instructions of respected Tamil Nadu BJP State President Mr. Nainar Nagendran, a street-corner campaign was held under my leadership in C. Mutlur village, Parangipettai South Union, Cuddalore West District, together with our allied party.",
+    "images": [
+      "fb_2001326064154633.jpg",
+      "fb_2001326124154627.jpg",
+      "fb_2001326174154622.jpg",
+      "fb_2001326247487948.jpg",
+      "fb_2001326324154607.jpg",
+      "fb_2001326380821268.jpg"
+    ],
+    "source_url": "https://www.facebook.com/share/p/18symnqE77/",
+    "facebook_post_id": "2001326424154597",
+    "caption_tamil": "26.02.2026 அன்று பாரதிய ஜனதாக் கட்சியின் மாநிலத் தலைவர் மதிப்பிற்குரிய திரு. நயினார் நாகேந்திரன் அவர்களின் அறிவுறுத்தலின்படி, கடலூர் மேற்கு மாவட்டம், பரங்கிப்பேட்டை தெற்கு ஒன்றியம், C.முட்லூர் கிராமத்தில் எனது தலைமையில் தெருமுனைப் பிரச்சாரம் மிகச் சிறப்பாக நமது தோழமைக் கட்சியுடன் நடைபெற்ற போது...",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "post_number": 257,
+    "date": "2026-02-27",
+    "time": "21:00:14",
+    "caption": "On 26 February 2026, following the instructions of respected Tamil Nadu BJP State President Mr. Nainar Nagendran, a street-corner campaign was held under my leadership in C. Mutlur village, Parangipettai South Union, Cuddalore West District, together with our allied party.",
+    "images": [
+      "fb_2001324567488116.jpg",
+      "fb_2001324634154776.jpg",
+      "fb_2001324807488092.jpg",
+      "fb_2001324877488085.jpg",
+      "fb_2001324940821412.jpg",
+      "fb_2001324977488075.jpg"
+    ],
+    "source_url": "https://www.facebook.com/share/p/19CZ68piQE/",
+    "facebook_post_id": "2001325017488071",
+    "caption_tamil": "26.02.2026 அன்று பாரதிய ஜனதாக் கட்சியின் மாநிலத் தலைவர் மதிப்பிற்குரிய திரு. நயினார் நாகேந்திரன் அவர்களின் அறிவுறுத்தலின்படி, கடலூர் மேற்கு மாவட்டம், பரங்கிப்பேட்டை தெற்கு ஒன்றியம், C.முட்லூர் கிராமத்தில் எனது தலைமையில் தெருமுனைப் பிரச்சாரம் மிகச் சிறப்பாக நமது தோழமைக் கட்சியுடன் நடைபெற்ற போது...",
+    "timezone": "Asia/Kolkata"
+  },
+  {
     "post_number": 1,
     "date": "2026-01-05",
     "time": "16:10:44",
@@ -1660,6 +1970,16 @@ window.POSTS_DATA = [
     ]
   },
   {
+    "post_number": 256,
+    "date": "2021-06-04",
+    "time": "23:59:54",
+    "caption": "Today, on the occasion of the birthday of our dear brother, Mr. J. Loganathan, the Tamil Nadu BJP State OBC Wing Leader, I extend my heartfelt wishes. May he be blessed by the grace of Chidambaram Nataraja with long life, happiness, and good health, and continue to rise in public life.",
+    "images": [
+      "img_0985.jpg",
+      "img_0986.jpg"
+    ]
+  },
+  {
     "post_number": 138,
     "date": "2021-05-08",
     "time": "16:03:25",
@@ -2565,7 +2885,7 @@ window.POSTS_DATA = [
     "post_number": 213,
     "date": "2019-07-15",
     "time": "13:19:02",
-    "caption": "Attended a training session for members and expansion workers yesterday evening in P. Mudloor, under the leadership of Cuddalore West District President Manikandan Ji.",
+    "caption": "Attended a training session for members and expansion workers yesterday evening in B. Mutlur, under the leadership of Cuddalore West District President Manikandan Ji.",
     "images": [
       "img_0867.jpg",
       "img_0868.jpg",
@@ -3021,16 +3341,6 @@ window.POSTS_DATA = [
     "caption": "Chithra added a new photo.",
     "images": [
       "img_0984.jpg"
-    ]
-  },
-  {
-    "post_number": 256,
-    "date": "2021-06-04",
-    "time": "23:59:54",
-    "caption": "Today, on the occasion of the birthday of our dear brother, Mr. J. Loganathan, the Tamil Nadu BJP State OBC Wing Leader, I extend my heartfelt wishes. May he be blessed by the grace of Chidambaram Nataraja with long life, happiness, and good health, and continue to rise in public life.",
-    "images": [
-      "img_0985.jpg",
-      "img_0986.jpg"
     ]
   }
 ];
