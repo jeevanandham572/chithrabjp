@@ -429,25 +429,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 10,
-    "date": "2025-10-27",
-    "time": "15:00:27",
-    "caption": "A joyful moment visiting the granddaughter at the home of the respected senior RSS leader, Brother Mr. Madhimaran.",
-    "images": [
-      "img_0034.jpg",
-      "img_0035.jpg"
-    ]
-  },
-  {
-    "post_number": 11,
-    "date": "2025-09-21",
-    "time": "22:56:12",
-    "caption": "When I paid a respectful visit to the beloved Sister, Mrs. Dr. Tamilisai Soundararajan, former BJP State President and former Governor of Telangana and Lieutenant Governor of Puducherry, at her residence yesterday.",
-    "images": [
-      "img_0036.jpg"
-    ]
-  },
-  {
     "post_number": 12,
     "date": "2025-09-05",
     "time": "16:48:36",
@@ -485,15 +466,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 15,
-    "date": "2025-08-05",
-    "time": "14:13:06",
-    "caption": "When my relative and former Union Secretary of the PMK, the beloved Karikalan Padaiyatchi, visited my home to meet and congratulate my son.",
-    "images": [
-      "img_0050.jpg"
-    ]
-  },
-  {
     "post_number": 16,
     "date": "2025-07-27",
     "time": "17:18:16",
@@ -504,25 +476,6 @@ window.POSTS_DATA = [
       "img_0053.jpg",
       "img_0054.jpg",
       "img_0055.jpg"
-    ]
-  },
-  {
-    "post_number": 17,
-    "date": "2025-06-29",
-    "time": "19:35:08",
-    "caption": "Today, I had the opportunity to meet Brother Balaraman, the former district president of Chengalpattu, at the sanctum of Melmaruvathur Adhiparasakthi Temple.",
-    "images": [
-      "img_0056.jpg"
-    ]
-  },
-  {
-    "post_number": 18,
-    "date": "2025-06-22",
-    "time": "06:47:59",
-    "caption": "Heading towards Madurai...",
-    "images": [
-      "img_0057.jpg",
-      "img_0058.jpg"
     ]
   },
   {
@@ -583,25 +536,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 24,
-    "date": "2025-06-02",
-    "time": "10:04:50",
-    "caption": "Heartfelt birthday wishes to the beloved Sister, former BJP State President, former Governor of Telangana, and current Lieutenant Governor of Puducherry, Mrs. Dr. Tamilisai Soundararajan.",
-    "images": [
-      "img_0076.jpg"
-    ]
-  },
-  {
-    "post_number": 25,
-    "date": "2025-05-15",
-    "time": "16:42:35",
-    "caption": "Today, as a mark of respect, I paid homage by garlanding the statue of the valiant J. Guru, Ex. M.L.A., and Vanniyar Sangam Leader, Brother.",
-    "images": [
-      "img_0077.jpg",
-      "img_0078.jpg"
-    ]
-  },
-  {
     "post_number": 26,
     "date": "2025-05-15",
     "time": "15:46:04",
@@ -609,16 +543,6 @@ window.POSTS_DATA = [
     "images": [
       "img_0079.jpg",
       "img_0080.jpg"
-    ]
-  },
-  {
-    "post_number": 27,
-    "date": "2025-05-09",
-    "time": "22:54:59",
-    "caption": "Today (09-05-2025), I had the honor of meeting our beloved Sister Dr. Tamilisai Soundararajan, the former Governor of Telangana and Puducherry, as a mark of respect.",
-    "images": [
-      "img_0081.jpg",
-      "img_0082.jpg"
     ]
   },
   {
@@ -691,15 +615,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 34,
-    "date": "2025-03-19",
-    "time": "00:22:31",
-    "caption": "On 17th March 2025, I had the honor of meeting the esteemed former district leader of Viluppuram, Brother Kalivarathan, in Chennai.",
-    "images": [
-      "img_0104.jpg"
-    ]
-  },
-  {
     "post_number": 35,
     "date": "2025-03-19",
     "time": "00:19:48",
@@ -747,15 +662,6 @@ window.POSTS_DATA = [
       "img_0120.jpg",
       "img_0121.jpg",
       "img_0122.jpg"
-    ]
-  },
-  {
-    "post_number": 39,
-    "date": "2025-02-16",
-    "time": "19:01:53",
-    "caption": "Yesterday (15-02-2025), I had the honor of meeting our beloved Sister, Dr. Tamilisai Soundararajan, former Governor of Telangana and current Lieutenant Governor of Puducherry, at her residence.",
-    "images": [
-      "img_0123.jpg"
     ]
   },
   {
@@ -819,36 +725,6 @@ window.POSTS_DATA = [
     "images": [
       "img_0145.jpg",
       "img_0146.jpg"
-    ]
-  },
-  {
-    "post_number": 45,
-    "date": "2024-09-06",
-    "time": "07:00:46",
-    "caption": "I take pride in renewing my membership card in the BJP, the world's largest political party.",
-    "images": [
-      "img_0147.jpg"
-    ]
-  },
-  {
-    "post_number": 46,
-    "date": "2024-08-20",
-    "time": "17:04:13",
-    "caption": "When my son participated in the global Rubik's Cube competition.",
-    "images": [
-      "img_0148.jpg",
-      "img_0149.jpg",
-      "img_0150.jpg",
-      "img_0151.jpg"
-    ]
-  },
-  {
-    "post_number": 47,
-    "date": "2024-08-17",
-    "time": "00:03:23",
-    "caption": "Today, my son has participated in the global Rubik's Cube competition.",
-    "images": [
-      "img_0152.jpg"
     ]
   },
   {
@@ -1062,18 +938,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 65,
-    "date": "2024-03-28",
-    "time": "11:52:09",
-    "caption": "Yesterday, I visited the home of our beloved Sister, Dr. Tamilisai Soundararajan, the BJP candidate for South Chennai, to meet her.",
-    "images": [
-      "img_0227.jpg",
-      "img_0228.jpg",
-      "img_0229.jpg",
-      "img_0230.jpg"
-    ]
-  },
-  {
     "post_number": 66,
     "date": "2024-03-15",
     "time": "08:54:08",
@@ -1085,15 +949,6 @@ window.POSTS_DATA = [
       "img_0234.jpg",
       "img_0235.jpg",
       "img_0236.jpg"
-    ]
-  },
-  {
-    "post_number": 67,
-    "date": "2024-01-26",
-    "time": "13:45:38",
-    "caption": "A delightful moment meeting the esteemed Brother Mr. Lokanathan, State Leader of the Central Government Welfare Schemes Division.",
-    "images": [
-      "img_0237.jpg"
     ]
   },
   {
@@ -1334,15 +1189,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 86,
-    "date": "2023-02-16",
-    "time": "17:57:00",
-    "caption": "Chithra added a new photo.",
-    "images": [
-      "img_0331.jpg"
-    ]
-  },
-  {
     "post_number": 87,
     "date": "2023-02-14",
     "time": "18:40:23",
@@ -1379,26 +1225,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 90,
-    "date": "2023-02-13",
-    "time": "16:39:20",
-    "caption": "Chithra added a new photo.",
-    "images": [
-      "img_0344.jpg"
-    ]
-  },
-  {
-    "post_number": 91,
-    "date": "2023-02-13",
-    "time": "06:05:25",
-    "caption": "Currently traveling to Delhi.",
-    "images": [
-      "img_0345.jpg",
-      "img_0346.jpg",
-      "img_0347.jpg"
-    ]
-  },
-  {
     "post_number": 92,
     "date": "2023-02-06",
     "time": "18:39:56",
@@ -1431,15 +1257,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 94,
-    "date": "2023-01-26",
-    "time": "14:22:19",
-    "caption": "Hoisted the national flag at my residence on the occasion of the 74th Republic Day.",
-    "images": [
-      "img_0364.jpg"
-    ]
-  },
-  {
     "post_number": 95,
     "date": "2023-01-02",
     "time": "20:43:19",
@@ -1453,15 +1270,6 @@ window.POSTS_DATA = [
       "img_0370.jpg",
       "img_0371.jpg",
       "img_0372.jpg"
-    ]
-  },
-  {
-    "post_number": 96,
-    "date": "2022-12-25",
-    "time": "00:37:24",
-    "caption": "Today, on 24/12/2022, I had the pleasure of meeting our beloved Sister, the Governor of Telangana and Puducherry, Dr. Tamilisai Soundararajan, at her residence.",
-    "images": [
-      "img_0373.jpg"
     ]
   },
   {
@@ -1483,16 +1291,6 @@ window.POSTS_DATA = [
       "img_0376.jpg",
       "img_0377.jpg",
       "img_0378.jpg"
-    ]
-  },
-  {
-    "post_number": 99,
-    "date": "2022-10-30",
-    "time": "20:52:22",
-    "caption": "Today, I had the darshan of Sri Mushnam Bhuvaraha Perumal.",
-    "images": [
-      "img_0379.jpg",
-      "img_0380.jpg"
     ]
   },
   {
@@ -1542,41 +1340,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 104,
-    "date": "2022-10-07",
-    "time": "22:21:21",
-    "caption": "Welcomed the Governor of Telangana and the Lieutenant Governor of Puducherry, the beloved Sister Dr. Tamilisai Soundararajan, with a garland as a mark of respect during their visit to the Chidambaram Nataraja Temple on 07.10.2022.",
-    "images": [
-      "img_0395.jpg",
-      "img_0396.jpg",
-      "img_0397.jpg",
-      "img_0398.jpg",
-      "img_0399.jpg",
-      "img_0400.jpg",
-      "img_0401.jpg",
-      "img_0402.jpg"
-    ]
-  },
-  {
-    "post_number": 105,
-    "date": "2022-09-27",
-    "time": "20:27:22",
-    "caption": "Met with the Governor of Telangana and the Lieutenant Governor of Puducherry, the beloved Sister Dr. Tamilisai Soundararajan, at her residence today.",
-    "images": [
-      "img_0403.jpg"
-    ]
-  },
-  {
-    "post_number": 106,
-    "date": "2022-09-18",
-    "time": "12:28:29",
-    "caption": "A meeting with my beloved sister",
-    "images": [
-      "img_0404.jpg",
-      "img_0405.jpg"
-    ]
-  },
-  {
     "post_number": 107,
     "date": "2022-09-17",
     "time": "19:25:53",
@@ -1591,16 +1354,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 108,
-    "date": "2022-08-15",
-    "time": "12:24:38",
-    "caption": "Vande Mataram | Jai Hind | Nationalism and divinity are my two eyes 🇮🇳🇮🇳🇮🇳",
-    "images": [
-      "img_0412.jpg",
-      "img_0413.jpg"
-    ]
-  },
-  {
     "post_number": 109,
     "date": "2022-08-15",
     "time": "00:51:24",
@@ -1610,17 +1363,6 @@ window.POSTS_DATA = [
       "img_0415.jpg",
       "img_0416.jpg",
       "img_0417.jpg"
-    ]
-  },
-  {
-    "post_number": 110,
-    "date": "2022-06-20",
-    "time": "19:49:04",
-    "caption": "On the occasion of my birthday today, I visited the residence of the beloved sister, Telangana Governor and Puducherry Lieutenant Governor, Dr. Tamilisai Soundararajan, to receive her blessings.",
-    "images": [
-      "img_0418.jpg",
-      "img_0419.jpg",
-      "img_0420.jpg"
     ]
   },
   {
@@ -1774,18 +1516,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 122,
-    "date": "2022-02-06",
-    "time": "22:05:35",
-    "caption": "Today, my school friend of 25 years, Mr. Ra. Ramamoorthy, who is an actor in Tamil cinema and also serves as the co-director and story writer of films like \"Mannar Vagaiyara\" and \"Konruvidavaa,\" visited me at my home as a gesture of respect.",
-    "images": [
-      "img_0483.jpg",
-      "img_0484.jpg",
-      "img_0485.jpg",
-      "img_0486.jpg"
-    ]
-  },
-  {
     "post_number": 123,
     "date": "2022-01-04",
     "time": "20:54:21",
@@ -1803,18 +1533,6 @@ window.POSTS_DATA = [
     "caption": "Congratulations to dear Brother Vat Kalivaradhan Exmla Bjp on assuming the role of Tamil Nadu BJP State Executive Committee Member. May your work flourish. | U. Chitra, B.A | State OBC Wing Secretary and | Cuddalore West District OBC Wing Observer",
     "images": [
       "img_0490.jpg"
-    ]
-  },
-  {
-    "post_number": 125,
-    "date": "2021-11-02",
-    "time": "21:47:10",
-    "caption": "When Brother Shanmugam, the former West District Secretary of Cuddalore, visited my home today as a gesture of respect. | U. Chitra, B.A | State OBC Wing Secretary and Cuddalore West District OBC Wing Observer.",
-    "images": [
-      "img_0491.jpg",
-      "img_0492.jpg",
-      "img_0493.jpg",
-      "img_0494.jpg"
     ]
   },
   {
@@ -1908,26 +1626,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 131,
-    "date": "2021-08-21",
-    "time": "18:37:25",
-    "caption": "Expressing condolences to the mother of the beloved Brother, Mr. J. Loganathan, State President of the OBC Wing, today.",
-    "images": [
-      "img_0545.jpg"
-    ]
-  },
-  {
-    "post_number": 132,
-    "date": "2021-08-21",
-    "time": "18:32:23",
-    "caption": "Paying homage today (21-8-21) to the late mother of the esteemed Governor of Telangana and Puducherry, beloved Sister Dr. Tamilisai Soundararajan.",
-    "images": [
-      "img_0546.jpg",
-      "img_0547.jpg",
-      "img_0548.jpg"
-    ]
-  },
-  {
     "post_number": 133,
     "date": "2021-07-27",
     "time": "21:54:48",
@@ -1941,56 +1639,6 @@ window.POSTS_DATA = [
       "img_0554.jpg",
       "img_0555.jpg",
       "img_0556.jpg"
-    ]
-  },
-  {
-    "post_number": 134,
-    "date": "2021-07-18",
-    "time": "16:59:16",
-    "caption": "Meeting with the beloved Brother Mr. J. Loganathan, State President of the OBC Wing, at Kamalalayam on 18-07-2021 as a mark of respect. | U. Chitra, B.A | State OBC Wing Secretary and Cuddalore West District OBC Wing Observer.",
-    "images": [
-      "img_0557.jpg",
-      "img_0558.jpg"
-    ]
-  },
-  {
-    "post_number": 135,
-    "date": "2021-07-16",
-    "time": "18:52:58",
-    "caption": "Congratulations to Brother Mr. Annamalai on assuming the role of Tamil Nadu BJP President today. | U. Chitra, B.A | State OBC Wing Secretary and Cuddalore West District OBC Wing Observer.",
-    "images": [
-      "img_0559.jpg"
-    ]
-  },
-  {
-    "post_number": 136,
-    "date": "2021-07-09",
-    "time": "18:24:03",
-    "caption": "Today (09-07-2021), I had the honor of meeting the esteemed Governor of Telangana and Lieutenant Governor of Puducherry, Sister Dr. Tamilisai Soundararajan, at her residence. | U. Chitra, B.A | State OBC Wing Secretary and Cuddalore West District OBC Wing Observer.",
-    "images": [
-      "img_0560.jpg",
-      "img_0561.jpg",
-      "img_0562.jpg"
-    ]
-  },
-  {
-    "post_number": 137,
-    "date": "2021-06-20",
-    "time": "18:29:15",
-    "caption": "Heartfelt thanks to the honorable Prime Minister Narendra Modi Ji for sending me birthday wishes 🙏.",
-    "images": [
-      "img_0563.jpg",
-      "img_0564.jpg"
-    ]
-  },
-  {
-    "post_number": 256,
-    "date": "2021-06-04",
-    "time": "23:59:54",
-    "caption": "Today, on the occasion of the birthday of our dear brother, Mr. J. Loganathan, the Tamil Nadu BJP State OBC Wing Leader, I extend my heartfelt wishes. May he be blessed by the grace of Chidambaram Nataraja with long life, happiness, and good health, and continue to rise in public life.",
-    "images": [
-      "img_0985.jpg",
-      "img_0986.jpg"
     ]
   },
   {
@@ -2044,15 +1692,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 142,
-    "date": "2021-03-23",
-    "time": "21:00:38",
-    "caption": "Chithra added a new photo.",
-    "images": [
-      "img_0583.jpg"
-    ]
-  },
-  {
     "post_number": 143,
     "date": "2021-03-02",
     "time": "13:28:53",
@@ -2080,29 +1719,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 145,
-    "date": "2021-02-22",
-    "time": "09:10:18",
-    "caption": "On 20.2.2021, when the esteemed Governor, beloved Sister Dr. Tamilisai Soundararajan, visited the sacred Chidambaram Thillai Natarajar Temple, she was warmly welcomed by BJP members.",
-    "images": [
-      "img_0595.jpg",
-      "img_0596.jpg",
-      "img_0597.jpg",
-      "img_0598.jpg",
-      "img_0599.jpg",
-      "img_0600.jpg",
-      "img_0601.jpg",
-      "img_0602.jpg",
-      "img_0603.jpg",
-      "img_0604.jpg",
-      "img_0605.jpg",
-      "img_0606.jpg",
-      "img_0607.jpg",
-      "img_0608.jpg",
-      "img_0609.jpg"
-    ]
-  },
-  {
     "post_number": 146,
     "date": "2021-02-21",
     "time": "00:39:23",
@@ -2111,15 +1727,6 @@ window.POSTS_DATA = [
       "img_0610.jpg",
       "img_0611.jpg",
       "img_0612.jpg"
-    ]
-  },
-  {
-    "post_number": 147,
-    "date": "2021-02-21",
-    "time": "00:28:20",
-    "caption": "20.2.2021: Welcomed the Honorable Governor, beloved Sister Dr. Tamilisai Soundararajan, during her visit to the sacred Thillai Nataraja Temple in Chidambaram today. | | Chithra | State OBC Wing Secretary and Cuddalore West District OBC Wing Observer",
-    "images": [
-      "img_0613.jpg"
     ]
   },
   {
@@ -2134,16 +1741,6 @@ window.POSTS_DATA = [
       "img_0617.jpg",
       "img_0618.jpg",
       "img_0619.jpg"
-    ]
-  },
-  {
-    "post_number": 149,
-    "date": "2020-12-24",
-    "time": "17:52:11",
-    "caption": "Met with Brother Mr. J. Loganathan, the State President of the OBC Wing, to pay respects today.",
-    "images": [
-      "img_0620.jpg",
-      "img_0621.jpg"
     ]
   },
   {
@@ -2236,15 +1833,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 156,
-    "date": "2020-11-16",
-    "time": "23:50:14",
-    "caption": "Join us in Cuddalore on 18.11.2020 for the grand Victory Vel Yatra, where everyone is invited to gather like a sea of people.",
-    "images": [
-      "img_0663.jpg"
-    ]
-  },
-  {
     "post_number": 157,
     "date": "2020-11-13",
     "time": "23:36:19",
@@ -2271,17 +1859,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 159,
-    "date": "2020-11-04",
-    "time": "14:30:50",
-    "caption": "Participated in the grand Maha Kumbhabhishekam of the Arulmigu Sri Angalaparameswari Temple in Kandiyamedu village today.",
-    "images": [
-      "img_0674.jpg",
-      "img_0675.jpg",
-      "img_0676.jpg"
-    ]
-  },
-  {
     "post_number": 160,
     "date": "2020-09-28",
     "time": "20:15:43",
@@ -2302,25 +1879,6 @@ window.POSTS_DATA = [
       "img_0681.jpg",
       "img_0682.jpg",
       "img_0683.jpg"
-    ]
-  },
-  {
-    "post_number": 162,
-    "date": "2020-09-20",
-    "time": "22:26:20",
-    "caption": "With State OBC Wing Secretary Sister Jyoti.",
-    "images": [
-      "img_0684.jpg"
-    ]
-  },
-  {
-    "post_number": 163,
-    "date": "2020-09-20",
-    "time": "22:16:58",
-    "caption": "Brother C. Arimuthu, General Secretary of the Karate Association in Villupuram district.",
-    "images": [
-      "img_0685.jpg",
-      "img_0686.jpg"
     ]
   },
   {
@@ -2388,16 +1946,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 168,
-    "date": "2020-09-04",
-    "time": "20:12:15",
-    "caption": "As a mark of respect today, | Mr. Saravanan visited my residence. | BJP Protest District Secretary, Bombay, Colaba",
-    "images": [
-      "img_0719.jpg",
-      "img_0720.jpg"
-    ]
-  },
-  {
     "post_number": 169,
     "date": "2020-09-02",
     "time": "21:12:25",
@@ -2417,53 +1965,6 @@ window.POSTS_DATA = [
     "images": [
       "img_0725.jpg",
       "img_0726.jpg"
-    ]
-  },
-  {
-    "post_number": 171,
-    "date": "2020-09-01",
-    "time": "15:13:02",
-    "caption": "Today, on the first day after the lockdown, I visited the Arulmigu Muppathamman Temple in Chennai, T. Nagar, where I met the esteemed Brother Kaduvetti Guru's son-in-law, Manoj Kiran A.",
-    "images": [
-      "img_0727.jpg",
-      "img_0728.jpg",
-      "img_0729.jpg"
-    ]
-  },
-  {
-    "post_number": 172,
-    "date": "2020-08-21",
-    "time": "11:50:48",
-    "caption": "I warmly welcome the esteemed State OBC Wing Leader, beloved Brother Mr. J. Loganathan Ji, who will be visiting the BJP Cuddalore zone today, 21-08-2020, to the district where Vallalar was born! Welcome!!! Welcome!!! | Forever in the service of the people | U. Chitra | State OBC Wing Secretary | and Cuddalore West District OBC Wing Observer.",
-    "images": [
-      "img_0730.jpg"
-    ]
-  },
-  {
-    "post_number": 173,
-    "date": "2020-08-03",
-    "time": "16:41:44",
-    "caption": "I express my gratitude to the esteemed State OBC Wing Leader, beloved Brother J. Loganathan, for appointing me as the Cuddalore West District OBC Wing Observer. | Forever in the service of the people | U. Chitra | State OBC Wing Secretary and Cuddalore West District OBC Wing Observer",
-    "images": [
-      "img_0731.jpg"
-    ]
-  },
-  {
-    "post_number": 174,
-    "date": "2020-08-01",
-    "time": "19:08:03",
-    "caption": "Today, Mr. Manibalan, former Higher Organization Representative of AIADMK 143rd Ward, Mylapore, visited me at my residence in Chennai West Mambalam as a courtesy.",
-    "images": [
-      "img_0732.jpg"
-    ]
-  },
-  {
-    "post_number": 175,
-    "date": "2020-08-01",
-    "time": "17:19:17",
-    "caption": "Today, I had the honor of meeting the esteemed State OBC Wing Leader, beloved Brother J. Loganathan, as a courtesy. | Forever in the service of the people | U. Chitra | State OBC Wing Secretary | Cuddalore West District.",
-    "images": [
-      "img_0733.jpg"
     ]
   },
   {
@@ -2564,71 +2065,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 185,
-    "date": "2020-07-06",
-    "time": "21:14:03",
-    "caption": "Chithra added 5 new photos.",
-    "images": [
-      "img_0759.jpg",
-      "img_0760.jpg",
-      "img_0761.jpg",
-      "img_0762.jpg",
-      "img_0763.jpg"
-    ]
-  },
-  {
-    "post_number": 186,
-    "date": "2020-07-05",
-    "time": "00:37:45",
-    "caption": "Dear son, you are like a prince to us. May you have a wonderful year and a life filled with accolades. We are always with you. Wishing you a very happy birthday.",
-    "images": [
-      "img_0764.jpg",
-      "img_0765.jpg"
-    ]
-  },
-  {
-    "post_number": 187,
-    "date": "2020-07-02",
-    "time": "18:35:30",
-    "caption": "Chithra added a new photo.",
-    "images": [
-      "img_0766.jpg"
-    ]
-  },
-  {
-    "post_number": 188,
-    "date": "2020-07-01",
-    "time": "21:47:57",
-    "caption": "On 01-07-2020, a video presentation on the achievements of the central \"Modi Government 2.0\" over the past year was held at the Kattumannarkovil Assembly in Cuddalore West District, organized by the SC/ST Wing at 02:00 PM. The esteemed Mr. S. Krishnan, Kanyakumari Division Organizer, delivered a speech through the video presentation. We express our gratitude to our Brother, the esteemed Mr. S. Krishnan, Kanyakumari Division Organizer, for being the special guest and clearly explaining the central government's welfare schemes and our party's policies, particularly regarding SC/ST schemes and assistance funds, in a way that was easily understandable to everyone. Forever in the service of the nation. U. Chithra, General Secretary, Cuddalore West District Women's Wing.",
-    "images": [
-      "img_0767.jpg",
-      "img_0768.jpg"
-    ]
-  },
-  {
-    "post_number": 189,
-    "date": "2020-06-30",
-    "time": "16:12:38",
-    "caption": "On 30-06-2020, a video presentation on the achievements of the central \"Modi Government 2.0\" over the past year was held at the Bhuvanagiri Assembly in Cuddalore West District, organized by the SC/ST Wing at 11:00 AM. The esteemed Mr. M. Bhaskar, former Thiruvallur East District President, and Brother K. P. D. Ilanchezhiyan, Cuddalore West District President, delivered a speech through the video presentation. We express our gratitude to our Brother, the esteemed Mr. M. Bhaskar, former Thiruvallur East District President, for being the special guest and clearly explaining the welfare schemes allocated by the central government for the SC/ST Wing, as well as our party's policies, in a way that was easily understandable to everyone. Forever in the service of the nation. U. Chithra, General Secretary, Cuddalore West District Women's Wing.",
-    "images": [
-      "img_0769.jpg",
-      "img_0770.jpg",
-      "img_0771.jpg",
-      "img_0772.jpg",
-      "img_0773.jpg",
-      "img_0774.jpg"
-    ]
-  },
-  {
-    "post_number": 190,
-    "date": "2020-06-28",
-    "time": "13:29:49",
-    "caption": "Chithra added a new photo.",
-    "images": [
-      "img_0775.jpg"
-    ]
-  },
-  {
     "post_number": 191,
     "date": "2020-06-28",
     "time": "13:25:45",
@@ -2642,15 +2078,6 @@ window.POSTS_DATA = [
       "img_0781.jpg",
       "img_0782.jpg",
       "img_0783.jpg"
-    ]
-  },
-  {
-    "post_number": 192,
-    "date": "2020-06-21",
-    "time": "10:14:36",
-    "caption": "I extend my heartfelt thanks to all the kind souls who wished me on my birthday both in person and on social media yesterday.",
-    "images": [
-      "img_0784.jpg"
     ]
   },
   {
@@ -2694,34 +2121,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 195,
-    "date": "2020-03-16",
-    "time": "12:52:54",
-    "caption": "Yesterday, I had the honor of meeting Sister Dr. Tamilisai Soundararajan, the esteemed Governor of Telangana, at her residence as a courtesy visit.",
-    "images": [
-      "img_0809.jpg"
-    ]
-  },
-  {
-    "post_number": 196,
-    "date": "2020-03-11",
-    "time": "18:35:53",
-    "caption": "Congratulations to Mr. L. Murugan, Ph.D. (Law), on his appointment as the President of Tamil Nadu BJP. 💐💐💐💐 | U. Chithra | District Women's Wing General Secretary, | Cuddalore West District.",
-    "images": [
-      "img_0810.jpg",
-      "img_0811.jpg"
-    ]
-  },
-  {
-    "post_number": 197,
-    "date": "2020-03-05",
-    "time": "08:03:55",
-    "caption": "Chithra added a new photo.",
-    "images": [
-      "img_0812.jpg"
-    ]
-  },
-  {
     "post_number": 198,
     "date": "2020-03-05",
     "time": "08:03:50",
@@ -2754,47 +2153,6 @@ window.POSTS_DATA = [
       "img_0821.jpg",
       "img_0822.jpg",
       "img_0823.jpg"
-    ]
-  },
-  {
-    "post_number": 201,
-    "date": "2019-11-09",
-    "time": "21:24:01",
-    "caption": "Today, my BJP friend Mr. N. Prabhakaran from Virudhunagar visited me at my office.",
-    "images": [
-      "img_0824.jpg",
-      "img_0825.jpg",
-      "img_0826.jpg"
-    ]
-  },
-  {
-    "post_number": 202,
-    "date": "2019-10-29",
-    "time": "23:04:33",
-    "caption": "On the occasion of Guru Peyarchi, I offered prayers at the Chidambaram Nataraja Temple with my BJP friends.",
-    "images": [
-      "img_0827.jpg",
-      "img_0828.jpg",
-      "img_0829.jpg",
-      "img_0830.jpg",
-      "img_0831.jpg",
-      "img_0832.jpg"
-    ]
-  },
-  {
-    "post_number": 203,
-    "date": "2019-10-27",
-    "time": "02:00:59",
-    "caption": "Chithra added 8 photos and a video.",
-    "images": [
-      "img_0833.jpg",
-      "img_0834.jpg",
-      "img_0835.jpg",
-      "img_0836.jpg",
-      "img_0837.jpg",
-      "img_0838.jpg",
-      "img_0839.jpg",
-      "img_0840.jpg"
     ]
   },
   {
@@ -2875,17 +2233,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 211,
-    "date": "2019-07-28",
-    "time": "23:26:17",
-    "caption": "Today, women joined the BJP in C. Mudloor.",
-    "images": [
-      "img_0862.jpg",
-      "img_0863.jpg",
-      "img_0864.jpg"
-    ]
-  },
-  {
     "post_number": 212,
     "date": "2019-07-19",
     "time": "19:54:17",
@@ -2917,95 +2264,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 215,
-    "date": "2019-05-29",
-    "time": "22:15:11",
-    "caption": "Participated in the housewarming ceremony at the residence of Mr. Saravanan in Koliyanur, Villupuram District.",
-    "images": [
-      "img_0872.jpg",
-      "img_0873.jpg",
-      "img_0874.jpg",
-      "img_0875.jpg"
-    ]
-  },
-  {
-    "post_number": 216,
-    "date": "2019-05-25",
-    "time": "20:34:04",
-    "caption": "Chithra added 4 new photos.",
-    "images": [
-      "img_0876.jpg",
-      "img_0877.jpg",
-      "img_0878.jpg"
-    ]
-  },
-  {
-    "post_number": 217,
-    "date": "2019-05-25",
-    "time": "20:32:49",
-    "caption": "First anniversary tribute to our brave hero. Paid floral respects at his residence.",
-    "images": [
-      "img_0879.jpg",
-      "img_0880.jpg"
-    ]
-  },
-  {
-    "post_number": 218,
-    "date": "2019-05-24",
-    "time": "20:18:00",
-    "caption": "Chithra added a new photo.",
-    "images": [
-      "img_0881.jpg"
-    ]
-  },
-  {
-    "post_number": 219,
-    "date": "2019-05-24",
-    "time": "20:16:12",
-    "caption": "Chithra added 2 new photos.",
-    "images": [
-      "img_0882.jpg",
-      "img_0883.jpg"
-    ]
-  },
-  {
-    "post_number": 220,
-    "date": "2019-05-24",
-    "time": "20:15:54",
-    "caption": "Chithra added 5 new photos.",
-    "images": [
-      "img_0884.jpg",
-      "img_0885.jpg",
-      "img_0886.jpg",
-      "img_0887.jpg",
-      "img_0888.jpg"
-    ]
-  },
-  {
-    "post_number": 221,
-    "date": "2019-05-24",
-    "time": "20:14:37",
-    "caption": "Chithra added 4 new photos.",
-    "images": [
-      "img_0889.jpg",
-      "img_0890.jpg",
-      "img_0891.jpg",
-      "img_0892.jpg"
-    ]
-  },
-  {
-    "post_number": 222,
-    "date": "2019-05-24",
-    "time": "20:14:06",
-    "caption": "Chithra added 4 new photos.",
-    "images": [
-      "img_0893.jpg",
-      "img_0894.jpg",
-      "img_0895.jpg",
-      "img_0896.jpg"
-    ]
-  },
-  {
     "post_number": 223,
     "date": "2019-05-24",
     "time": "20:13:20",
@@ -3018,59 +2276,12 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 224,
-    "date": "2019-04-30",
-    "time": "18:17:06",
-    "caption": "Today, as a mark of respect, the Cuddalore West District Women's Wing General Secretary Chithra met with Dr. Tamilisai Soundararajan, the Tamil Nadu BJP State President, at her residence.",
-    "images": [
-      "img_0901.jpg"
-    ]
-  },
-  {
-    "post_number": 225,
-    "date": "2019-01-09",
-    "time": "12:10:34",
-    "caption": "Chithra added a new photo.",
-    "images": [
-      "img_0902.jpg"
-    ]
-  },
-  {
-    "post_number": 226,
-    "date": "2019-01-08",
-    "time": "22:30:46",
-    "caption": "Chithra added 2 new photos.",
-    "images": [
-      "img_0903.jpg",
-      "img_0904.jpg"
-    ]
-  },
-  {
-    "post_number": 227,
-    "date": "2019-01-08",
-    "time": "22:24:47",
-    "caption": "Meeting with the esteemed State President, Dr. Tamilisai Soundararajan.",
-    "images": [
-      "img_0905.jpg",
-      "img_0906.jpg"
-    ]
-  },
-  {
     "post_number": 228,
     "date": "2019-01-08",
     "time": "22:11:36",
     "caption": "Participated in the public grievance redressal event held at Kamalalayam.",
     "images": [
       "img_0907.jpg"
-    ]
-  },
-  {
-    "post_number": 229,
-    "date": "2018-12-31",
-    "time": "23:53:08",
-    "caption": "2018 TIMELINE | A wonderful moment when the dear brothers of BJP from Villupuram district, connected through the internet, met me in Chidambaram. | | Chithra BJP, | Cuddalore West District Women's Wing General Secretary",
-    "images": [
-      "img_0908.jpg"
     ]
   },
   {
@@ -3092,124 +2303,12 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 232,
-    "date": "2018-12-31",
-    "time": "23:47:44",
-    "caption": "2018 TIMELINE",
-    "images": [
-      "img_0911.jpg"
-    ]
-  },
-  {
-    "post_number": 233,
-    "date": "2018-12-31",
-    "time": "23:47:17",
-    "caption": "2018 TIMELINE | The pillar of my political journey! My political guide! Beloved Mr. J. Lokanathan Brother of BJP... | A joyful moment meeting the Thiruvalluvar West District President. | | Chithra BJP, | General Secretary of the Women's Wing, Cuddalore West District.",
-    "images": [
-      "img_0912.jpg"
-    ]
-  },
-  {
     "post_number": 234,
     "date": "2018-12-31",
     "time": "23:45:05",
     "caption": "2018 TIMELINE | An introduction to my district's people! | The dynamic leader who entrusted me with political responsibilities! | Forever one among us! Tireless worker! | Wonderful days working with former united Cuddalore District BJP President Brother Deva Saravanasundaram. | | With gratitude, | Chithra BJP, | General Secretary of the Women's Wing, Cuddalore West District.",
     "images": [
       "img_0913.jpg"
-    ]
-  },
-  {
-    "post_number": 235,
-    "date": "2018-12-31",
-    "time": "23:44:00",
-    "caption": "2018 TIMELINE | The Vajpayee of South Tamil Nadu! | Beloved leader of the common people! | A remarkable moment of introduction with Brother Ponnar, the ever-victorious Union Minister. | | Chithra BJP, | General Secretary of the Women's Wing, Cuddalore West District.",
-    "images": [
-      "img_0914.jpg"
-    ]
-  },
-  {
-    "post_number": 236,
-    "date": "2018-12-31",
-    "time": "23:42:17",
-    "caption": "2018 TIMELINE | A memorable first encounter with the fearless and admirable leader, Sister Tamilisai Soundararajan! |  | Chithra BJP, | General Secretary, Cuddalore West District Women's Wing.",
-    "images": [
-      "img_0915.jpg"
-    ]
-  },
-  {
-    "post_number": 237,
-    "date": "2018-12-30",
-    "time": "21:32:34",
-    "caption": "Chithra added 2 new photos.",
-    "images": [
-      "img_0916.jpg",
-      "img_0917.jpg"
-    ]
-  },
-  {
-    "post_number": 238,
-    "date": "2018-12-30",
-    "time": "21:31:55",
-    "caption": "Chithra added 2 new photos.",
-    "images": [
-      "img_0918.jpg",
-      "img_0919.jpg"
-    ]
-  },
-  {
-    "post_number": 239,
-    "date": "2018-12-25",
-    "time": "14:04:26",
-    "caption": "In Gujarat📸",
-    "images": [
-      "img_0920.jpg",
-      "img_0921.jpg",
-      "img_0922.jpg"
-    ]
-  },
-  {
-    "post_number": 240,
-    "date": "2018-12-24",
-    "time": "22:22:30",
-    "caption": "Chithra added 3 new photos.",
-    "images": [
-      "img_0923.jpg",
-      "img_0924.jpg",
-      "img_0925.jpg"
-    ]
-  },
-  {
-    "post_number": 241,
-    "date": "2018-12-24",
-    "time": "22:21:57",
-    "caption": "In Gujarat 📸",
-    "images": [
-      "img_0926.jpg",
-      "img_0927.jpg",
-      "img_0928.jpg",
-      "img_0929.jpg"
-    ]
-  },
-  {
-    "post_number": 242,
-    "date": "2018-12-24",
-    "time": "22:20:30",
-    "caption": "In Gujarat 📸",
-    "images": [
-      "img_0930.jpg",
-      "img_0931.jpg",
-      "img_0932.jpg",
-      "img_0933.jpg"
-    ]
-  },
-  {
-    "post_number": 243,
-    "date": "2018-12-24",
-    "time": "06:42:19",
-    "caption": "Chithra added 2 new photos.",
-    "images": [
-      "img_0934.jpg",
-      "img_0935.jpg"
     ]
   },
   {
@@ -3279,15 +2378,6 @@ window.POSTS_DATA = [
     ]
   },
   {
-    "post_number": 250,
-    "date": "2018-11-15",
-    "time": "10:04:21",
-    "caption": "Chithra added 2 new photos.",
-    "images": [
-      "img_0954.jpg"
-    ]
-  },
-  {
     "post_number": 251,
     "date": "2018-11-15",
     "time": "09:57:46",
@@ -3346,15 +2436,6 @@ window.POSTS_DATA = [
       "img_0981.jpg",
       "img_0982.jpg",
       "img_0983.jpg"
-    ]
-  },
-  {
-    "post_number": 255,
-    "date": "2018-10-26",
-    "time": "00:40:22",
-    "caption": "Chithra added a new photo.",
-    "images": [
-      "img_0984.jpg"
     ]
   }
 ];
