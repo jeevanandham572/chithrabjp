@@ -5,9 +5,9 @@ window.POSTS_DATA = [
     "time": "20:46:00",
     "caption": "Ahead of Deepavali, we distributed sweets and firecrackers to school students living in Kalaignar Nagar, Killai, Cuddalore West District, and celebrated with them.",
     "images": [
-      "fb_2226373601649877.jpg",
+      "fb_2226373494983221.jpg",
       "fb_2226373554983215.jpg",
-      "fb_2226373494983221.jpg"
+      "fb_2226373601649877.jpg"
     ],
     "source_url": "https://www.facebook.com/share/p/197h8gcHsL/",
     "caption_tamil": "இன்று தீபாவளியை முன்னிட்டு, கடலூர் மேற்கு மாவட்டம், கிள்ளை கலைஞர் நகரில் வசிக்கும் பள்ளி மாணவ, மாணவியர்களுக்கு இனிப்புகள் மற்றும் பட்டாசுகள் வழங்கி, அவர்களுடன் மகிழ்ச்சியாகத் தீபாவளியைக் கொண்டாடினோம்.",
